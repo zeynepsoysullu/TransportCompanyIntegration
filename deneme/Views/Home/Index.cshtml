@@ -1,0 +1,60 @@
+﻿@model deneme.Models.Model
+@{
+    ViewData["Title"] = "Home Page";
+}
+@*section scripts yazıp oluşturduğumuz js in adresini veriyoruz*@
+@section scripts{
+    <script src=~/js/index.js></script>
+}
+<body>
+    <table>
+        <tr>
+            <td>Date</td>
+            <td><input type="text" id="input0" onkeyup="searchTable()" placeholder="Search for Date.."></td>
+            <td>Vessel</td>
+            <td><input type="text" id="input1" onkeyup="searchTable()" placeholder="Search for Vessel.."></td>
+            <td>Voy</td>
+            <td><input type="text" id="input2" onkeyup="searchTable()" placeholder="Search for Voy.."></td>
+            <td>Hepsinde ara</td>
+            <td><input align="right" type="text" id="search" placeholder="Search..."></td>
+    </table>
+    <div >
+        <table class="table" id="kargoListesi">
+            <thead>
+            <tr>
+                <th>Date</th>
+                <th>Vessel</th>
+                <th>Voy</th>
+                <th>From</th>
+                <th>To</th>
+                <th>Arrival</th>
+                <th>Truck</th>
+                <th>Trailer</th>
+                <th>Driver</th>
+                <th>Bl</th>
+            </tr>
+            </thead>
+            <tbody>
+                @*Modelden çektiğimiz KargoListesinin uzunluğu kadar dönüp ne var ne yok ekrana yazdırıyoruz*@
+                @foreach (var kargo in Model.KargoListesi)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(item => kargo.dateValue)</td>
+                    <td>@Html.DisplayFor(item => kargo.vesselValue)</td>
+                    <td>@Html.DisplayFor(item => kargo.voyValue)</td>
+                    <td>@Html.DisplayFor(item => kargo.fromValue)</td>
+                    <td>@Html.DisplayFor(item => kargo.toValue)</td>
+                    <td>@Html.DisplayFor(item => kargo.arrivalValue)</td>
+                    <td>@Html.DisplayFor(item => kargo.truckValue)</td>
+                    <td>@Html.DisplayFor(item => kargo.trailerValue)</td>
+                    <td>@Html.DisplayFor(item => kargo.driverValue)</td>
+                    <td>@Html.DisplayFor(item => kargo.blValue)</td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</body>
+
+
+

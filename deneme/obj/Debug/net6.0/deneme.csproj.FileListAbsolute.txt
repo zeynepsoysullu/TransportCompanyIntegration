@@ -1,0 +1,112 @@
+C:\Users\User\Desktop\denme\deneme\deneme\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\denme\deneme\deneme\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\denme\deneme\deneme\bin\Debug\net6.0\deneme.staticwebassets.runtime.json
+C:\Users\User\Desktop\denme\deneme\deneme\bin\Debug\net6.0\deneme.exe
+C:\Users\User\Desktop\denme\deneme\deneme\bin\Debug\net6.0\deneme.deps.json
+C:\Users\User\Desktop\denme\deneme\deneme\bin\Debug\net6.0\deneme.runtimeconfig.json
+C:\Users\User\Desktop\denme\deneme\deneme\bin\Debug\net6.0\deneme.dll
+C:\Users\User\Desktop\denme\deneme\deneme\bin\Debug\net6.0\ref\deneme.dll
+C:\Users\User\Desktop\denme\deneme\deneme\bin\Debug\net6.0\deneme.pdb
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\deneme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\deneme.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\deneme.AssemblyInfo.cs
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\deneme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\deneme.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\deneme.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\deneme.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\scopedcss\bundle\deneme.styles.css
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\scopedcss\projectbundle\deneme.bundle.scp.css
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\deneme.dll
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\ref\deneme.dll
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\deneme.pdb
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\deneme.genruntimeconfig.cache
+C:\Users\User\Desktop\denme\deneme\deneme\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\User\Desktop\denme\deneme\deneme\obj\Debug\net6.0\deneme.csproj.CopyComplete
+C:\Users\User\Desktop\deneme\deneme\deneme\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\deneme\deneme\deneme\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\deneme\deneme\deneme\bin\Debug\net6.0\deneme.staticwebassets.runtime.json
+C:\Users\User\Desktop\deneme\deneme\deneme\bin\Debug\net6.0\deneme.exe
+C:\Users\User\Desktop\deneme\deneme\deneme\bin\Debug\net6.0\deneme.deps.json
+C:\Users\User\Desktop\deneme\deneme\deneme\bin\Debug\net6.0\deneme.runtimeconfig.json
+C:\Users\User\Desktop\deneme\deneme\deneme\bin\Debug\net6.0\deneme.dll
+C:\Users\User\Desktop\deneme\deneme\deneme\bin\Debug\net6.0\ref\deneme.dll
+C:\Users\User\Desktop\deneme\deneme\deneme\bin\Debug\net6.0\deneme.pdb
+C:\Users\User\Desktop\deneme\deneme\deneme\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\deneme.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\deneme.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\deneme.AssemblyInfo.cs
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\deneme.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\deneme.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\deneme.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\deneme.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\scopedcss\bundle\deneme.styles.css
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\scopedcss\projectbundle\deneme.bundle.scp.css
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\deneme.csproj.CopyComplete
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\deneme.dll
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\ref\deneme.dll
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\deneme.pdb
+C:\Users\User\Desktop\deneme\deneme\deneme\obj\Debug\net6.0\deneme.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\bin\Debug\net6.0\deneme.staticwebassets.runtime.json
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\bin\Debug\net6.0\deneme.exe
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\bin\Debug\net6.0\deneme.deps.json
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\bin\Debug\net6.0\deneme.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\bin\Debug\net6.0\deneme.dll
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\bin\Debug\net6.0\ref\deneme.dll
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\bin\Debug\net6.0\deneme.pdb
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\deneme.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\deneme.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\deneme.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\deneme.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\deneme.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\deneme.RazorAssemblyInfo.cache
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\deneme.RazorAssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\scopedcss\bundle\deneme.styles.css
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\scopedcss\projectbundle\deneme.bundle.scp.css
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\deneme.csproj.CopyComplete
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\deneme.dll
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\ref\deneme.dll
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\deneme.pdb
+C:\Users\HP\OneDrive\Masaüstü\deneme\deneme\deneme\obj\Debug\net6.0\deneme.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\bin\Debug\net6.0\deneme.staticwebassets.runtime.json
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\bin\Debug\net6.0\deneme.exe
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\bin\Debug\net6.0\deneme.deps.json
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\bin\Debug\net6.0\deneme.runtimeconfig.json
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\bin\Debug\net6.0\deneme.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\bin\Debug\net6.0\deneme.pdb
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\deneme.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\deneme.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\deneme.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\deneme.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\deneme.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\deneme.RazorAssemblyInfo.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\deneme.RazorAssemblyInfo.cs
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\scopedcss\bundle\deneme.styles.css
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\scopedcss\projectbundle\deneme.bundle.scp.css
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\deneme.csproj.CopyComplete
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\deneme.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\refint\deneme.dll
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\deneme.pdb
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\deneme.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Masaüstü\YM\3.sınıf\web application\deneme\deneme\deneme\obj\Debug\net6.0\ref\deneme.dll
